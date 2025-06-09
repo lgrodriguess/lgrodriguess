@@ -3,6 +3,7 @@
 🎓 Estudante de Ciência da Computação  
 🏡 Nascido em Mauá - SP | Atualmente morando em Rio Pomba - MG  
 📅 19 Anos /  24/07
+
 🚀 Apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções com propósito
 
 ---
