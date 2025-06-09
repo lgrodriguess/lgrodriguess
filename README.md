@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Luan Gabriel Rodrigues Longo
+# 👋 Olá! Eu sou o Luan Gabriel Rodrigues Longo sem braba
 
 🎓 Estudante de Ciência da Computação  
 🏡 Nascido em Mauá - SP | Atualmente morando em Rio Pomba - MG  
