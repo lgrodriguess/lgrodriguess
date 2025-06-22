@@ -16,20 +16,28 @@ Atualmente focado em aprimorar meus conhecimentos em:
 
 ---
 
+## 🧰 My Stack
+
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg#gh-dark-mode-only)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg#gh-light-mode-only)
+
+---
+
 ## 📫 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/lrodriguesrl/)
-- [Instagram](https://www.instagram.com/l.rodriguess11/)
-- [GitHub](https://github.com/luanlongo)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:lrodriges2407@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/lrodriguesrl)  
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF)](https://www.instagram.com/l.rodriguess11)
 
 ---
 
 ## ✨ Um pouco sobre mim
 
-- 📚 Gosto de estudar e entender o "porquê" por trás da tecnologia
-- 🎮 Fã de jogos, animes e cultura geek 
+- 📚 Gosto de estudar e entender o "porquê" por trás da tecnologia  
+- 🎮 Fã de jogos, animes e cultura geek  
 - 🌍 Buscando crescer como desenvolvedor e contribuir para projetos que tenham impacto real
 
 ---
+
 **Obrigado por visitar meu perfil!** 😄  
 _Sinta-se à vontade para explorar meus projetos ou entrar em contato!_
