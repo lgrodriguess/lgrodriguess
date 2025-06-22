@@ -18,8 +18,7 @@ Atualmente focado em aprimorar meus conhecimentos em:
 
 ## 🧰 My Stack
 
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg#gh-dark-mode-only)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg#gh-light-mode-only)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 
 ---
 
