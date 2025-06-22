@@ -31,6 +31,5 @@ Atualmente focado em aprimorar meus conhecimentos em:
 - 🌍 Buscando crescer como desenvolvedor e contribuir para projetos que tenham impacto real
 
 ---
-
 **Obrigado por visitar meu perfil!** 😄  
 _Sinta-se à vontade para explorar meus projetos ou entrar em contato!_
