@@ -26,5 +26,12 @@ Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas G
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/l.rodriguess11)
 
 ---
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuanRodrigues11/LuanRodrigues11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuanRodrigues11/LuanRodrigues11/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuanRodrigues11/LuanRodrigues11/output/github-contribution-grid-snake.svg">
+</picture>
 
 Obrigado por visitar meu perfil!
