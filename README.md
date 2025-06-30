@@ -7,7 +7,7 @@ Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas G
 ## Sobre mim
 
 - Natural de Mauá - SP | Residente em Rio Pomba - MG  
-- Interesse em desenvolvimento backend, algoritmos e ciência da computação teórica  
+- Interesse em desenvolvimento frontend, algoritmos e ciência da computação teórica  
 - Buscando sempre entender a fundo os conceitos e criar projetos com propósito  
 - Entusiasta de jogos, animes e cultura geek
 
