@@ -4,15 +4,6 @@ Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas G
 
 ---
 
-## Sobre mim
-
-- Natural de Mauá - SP | Residente em Rio Pomba - MG  
-- Interesse em desenvolvimento de algoritmos e ciência da computação teórica  
-- Buscando sempre entender a fundo os conceitos e criar projetos com propósito  
-- Entusiasta de jogos, animes e cultura geek
-
----
-
 ## Tecnologias e Ferramentas
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
