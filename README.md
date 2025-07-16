@@ -21,9 +21,9 @@ Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas G
 
 ## Contato
 
-[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:lrodriges2407@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/lrodriguesrl)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/l.rodriguess11)
+[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000)](mailto:lrodriges2407@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://www.linkedin.com/in/lrodriguesrl)  
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF0000)](https://www.instagram.com/l.rodriguess11)
 
 ---
 #
