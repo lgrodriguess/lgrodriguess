@@ -56,6 +56,15 @@ Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas G
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:lrodriges2407@gmail.com)
 
 ---
+</div>
+
+<br>
+
+</details>
+
+<br>
+<br>
+
 #
 
 <picture align="center">
