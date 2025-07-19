@@ -1,10 +1,10 @@
 # Luan Gabriel Rodrigues Longo
 
-Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas Gerais – Campus Rio Pomba. Focado em desenvolvimento de software, estruturas de dados e fundamentos da computação. Apaixonado por tecnologia, aprendizado contínuo e por construir soluções que fazem sentido na prática.
+Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas Gerais – Campus Rio Pomba. Interessado em desenvolvimento de software, estruturas de dados, fundamentos da computação , Banco de Dados e Segurança da Informação. Apaixonado por tecnologia, aprendizado contínuo e por construir soluções que fazem sentido na prática.
 
 ---
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 
 <img src="https://skillicons.dev/icons?i=cpp,vscode,figma" /> 
 
@@ -24,5 +24,3 @@ Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas G
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake.svg">
 </picture>
-
-Obrigado por visitar meu perfil!
