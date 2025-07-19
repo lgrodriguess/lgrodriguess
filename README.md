@@ -6,7 +6,7 @@ Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas G
 
 ## Tecnologias e Ferramentas
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp,vscode,figma" /> 
 
 ---
 
