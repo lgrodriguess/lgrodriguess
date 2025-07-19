@@ -19,12 +19,6 @@ Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas G
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=lgrodriguess&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
   />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgrodriguess&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
-  />
   <br>
   <br>
   <img
