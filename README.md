@@ -1,7 +1,13 @@
-# Luan Gabriel Rodrigues Longo
+<br>
 
-Estudante de Ciência da Computação no Instituto Federal do Sudeste de Minas Gerais – Campus Rio Pomba. Interessado em Desenvolvimento de Software, Estruturas de Dados,Banco de Dados e Segurança da Informação. Apaixonado por tecnologia, aprendizado contínuo e por construir soluções que fazem sentido na prática.
-
+<div align="center">
+  
+  <b>`プログラマ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Luan Rodrigues</b>
+  </samp>
+  
 ---
 <details align="center">  
   <summary>
