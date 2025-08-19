@@ -53,6 +53,12 @@
 
 ---
 
+## Learning
+
+<img src="https://skillicons.dev/icons?i=javascript" />
+
+---
+
 ## Contact
 
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/l.rodriguess11/)
