@@ -49,13 +49,13 @@
 
 ## Technologies and Tools
 
-<img src="https://skillicons.dev/icons?i=cpp,vscode,javascript" /> 
+<img src="https://skillicons.dev/icons?i=cpp,vscode" /> 
 
 ---
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=figma,html" />
+<img src="https://skillicons.dev/icons?i=figma,html,javascript" />
 
 ---
 
