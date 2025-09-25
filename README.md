@@ -55,7 +55,7 @@
 
 ## Learning
 
-<img src="https://skillicons.dev/icons?i=figma,html,javascript" />
+<img src="https://skillicons.dev/icons?i=figma,html,javascript,python" />
 
 ---
 
