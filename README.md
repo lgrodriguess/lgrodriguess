@@ -10,9 +10,6 @@ Hi there! I'm <b>Luan Rodrigues</b> 👋
 Computer Science Student
 </samp>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=lgrodriguess&label=Profile%20views&color=9745f5&style=for-the-badge" />
 </div>
 
 ---
@@ -32,38 +29,18 @@ Computer Science Student
 
 ---
 
-# 🚀 Featured Repositories
+# 🚀 Repositories
 
 - 📚 **[Faculdade](https://github.com/lgrodriguess/Faculdade)** → exercícios, trabalhos e provas da faculdade  
 - 📖 **Alura** → cursos e projetos realizados na plataforma Alura  
 
 ---
 
-# ⚙️ Technologies & Tools
+# ⚙️ Technologies
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,js,figma"/>
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lgrodriguess&show_icons=true&theme=midnight-purple"/>
 
 </div>
 
