@@ -4,11 +4,11 @@
 
 <b>`プログラマ`</b>
 
-<samp>
-Hi there! I'm <b>Luan Rodrigues</b> 👋
-<br>
-Computer Science Student
-</samp>
+```console
+> Luan Rodrigues
+> Computer Science Student
+> C++ • Algorithms • Data Structures
+```
 
 </div>
 
@@ -22,17 +22,17 @@ Computer Science Student
 
 # 🧑‍💻 About Me
 
-- 🎓 Computer Science student  
-- 💻 Studying Algorithms and Data Structures  
-- ⚙️ Main language: **C++**  
-- 🚀 Always learning new technologies  
+* 🎓 Computer Science student
+* 💻 Studying Algorithms and Data Structures
+* ⚙️ Main language: **C++**
+* 🚀 Always learning new technologies
 
 ---
 
 # 🚀 Repositories
 
-- 📚 **[Faculdade](https://github.com/lgrodriguess/Faculdade)** → exercícios, trabalhos e provas da faculdade  
-- 📖 **Alura** → cursos e projetos realizados na plataforma Alura  
+* 📚 **[Faculdade](https://github.com/lgrodriguess/Faculdade)** → exercícios, trabalhos e provas da faculdade
+* 📖 **Alura** → cursos e projetos realizados na plataforma Alura
 
 ---
 
@@ -63,6 +63,4 @@ Computer Science Student
 ---
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake.svg">
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lgrodriguess/l
