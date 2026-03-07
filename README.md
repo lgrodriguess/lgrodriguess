@@ -50,12 +50,17 @@
 
 <div align="center">
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/l.rodriguess11/)  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lrodriguesrl/)  
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lrodriges2407@gmail.com)
+<a href="https://www.instagram.com/l.rodriguess11/">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://www.linkedin.com/in/lrodriguesrl/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:lrodriges2407@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 </div>
-
 <br>
 
 </details>
