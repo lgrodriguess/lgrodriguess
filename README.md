@@ -12,8 +12,7 @@ Computer Science Student
 
 <br>
 
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flgrodriguess&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
-
+<img src="https://komarev.com/ghpvc/?username=lgrodriguess&label=Profile%20views&color=9745f5&style=for-the-badge" />
 </div>
 
 ---
