@@ -8,8 +8,6 @@
 Hi there! I'm <b>Luan Rodrigues</b> 👋
 <br>
 Computer Science Student
-<br>
-Passionate about programming and problem solving
 </samp>
 
 <br>
@@ -20,12 +18,25 @@ Passionate about programming and problem solving
 
 ---
 
+<details align="center">
+
+<summary><b>More Info</b></summary>
+
+<br>
+
 # 🧑‍💻 About Me
 
 - 🎓 Computer Science student  
-- 💻 Currently studying **Algorithms and Data Structures**  
+- 💻 Studying Algorithms and Data Structures  
 - ⚙️ Main language: **C++**  
 - 🚀 Always learning new technologies  
+
+---
+
+# 🚀 Featured Repositories
+
+- 📚 **[Faculdade](https://github.com/lgrodriguess/Faculdade)** → exercícios, trabalhos e provas da faculdade  
+- 📖 **Alura** → cursos e projetos realizados na plataforma Alura  
 
 ---
 
@@ -55,22 +66,7 @@ Passionate about programming and problem solving
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=lgrodriguess&show_icons=true&theme=midnight-purple"/>
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lgrodriguess&theme=midnight_purple"/>
-
-<br><br>
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=lgrodriguess&theme=midnight-purple"/>
-
 </div>
-
----
-
-# 🚀 Featured Repositories
-
-- 📚 **programacao-estudos** → exercícios e trabalhos da faculdade  
-- 📖 **cursos-alura** → cursos e projetos realizados na Alura  
 
 ---
 
@@ -83,6 +79,10 @@ Passionate about programming and problem solving
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lrodriges2407@gmail.com)
 
 </div>
+
+<br>
+
+</details>
 
 ---
 
