@@ -22,17 +22,17 @@
 
 # 🧑‍💻 About Me
 
-* 🎓 Computer Science student
-* 💻 Studying Algorithms and Data Structures
-* ⚙️ Main language: **C++**
-* 🚀 Always learning new technologies
+* 🎓 Computer Science student  
+* 💻 Studying Algorithms and Data Structures  
+* ⚙️ Main language: **C++**  
+* 🚀 Always learning new technologies  
 
 ---
 
 # 🚀 Repositories
 
-* 📚 **[Faculdade](https://github.com/lgrodriguess/Faculdade)** → exercícios, trabalhos e provas da faculdade
-* 📖 **Alura** → cursos e projetos realizados na plataforma Alura
+* 📚 **[Faculdade](https://github.com/lgrodriguess/Faculdade)** → exercícios, trabalhos e provas da faculdade  
+* 📖 **Alura** → cursos e projetos realizados na plataforma Alura  
 
 ---
 
@@ -50,8 +50,8 @@
 
 <div align="center">
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/l.rodriguess11/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lrodriguesrl/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/l.rodriguess11/)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lrodriguesrl/)  
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lrodriges2407@gmail.com)
 
 </div>
@@ -62,5 +62,8 @@
 
 ---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lgrodriguess/l
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/lgrodriguess/lgrodriguess/output/github-contribution-grid-snake.svg)
+
+</div>
