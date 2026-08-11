@@ -31,15 +31,14 @@
 
 * 🎓 Computer Science student  
 * 💻 Studying Algorithms and Data Structures  
-* ⚙️ Main language: **C++**  
+* ⚙️ Main language: **Java**  
 * 🚀 Always learning new technologies  
 
 ---
 
 # 🚀 Repositories
 
-* 📚 **[Faculdade](https://github.com/lgrodriguess/Faculdade)** → exercícios, trabalhos e provas da faculdade  
-* 📖 **Alura** → cursos e projetos realizados na plataforma Alura  
+* 📚 **[Faculdade](https://github.com/lgrodriguess/Faculdade)** → exercícios, trabalhos e provas da faculdade   
 
 ---
 
@@ -47,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,postgres,git,github,vscode"/>
 
 </div>
 
