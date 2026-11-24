@@ -14,7 +14,7 @@
 ```console
 > Luan Rodrigues
 > Computer Science Student
-> C++ • Algorithms • Data Structures
+> Java • Algorithms • Data Structures
 ```
 
 </div>
