@@ -14,7 +14,7 @@
 ```console
 > Luan Rodrigues
 > Computer Science Student
-> Java • Algorithms • Data Structures
+> Java • Web Development • Algorithms
 ```
 
 </div>
@@ -30,15 +30,17 @@
 # 🧑‍💻 About Me
 
 * 🎓 Computer Science student  
-* 💻 Studying Algorithms and Data Structures  
-* ⚙️ Main language: **Java**  
+* 💻 Studying Algorithms, Data Structures and **Web Development**  
+* ⚙️ Main languages: **Java**, **JavaScript** and **PHP**  
+* 🔬 Building **PhysicsLab**, an interactive physics lab for classroom use  
 * 🚀 Always learning new technologies  
 
 ---
 
 # 🚀 Repositories
 
-* 📚 **[Faculdade](https://github.com/lgrodriguess/Faculdade)** → exercícios, trabalhos e provas da faculdade   
+* 🚧 **[PhysicsLab](https://github.com/lgrodriguess/PhysicsLab)** → *work in progress*: laboratório virtual de Física III (eletrostática, circuitos, magnetismo e indução) em HTML, CSS e JavaScript puro, com simuladores, calculadora, exercícios, testes automatizados e modo offline. Pensado para professores usarem em sala
+* 📚 **[Faculdade](https://github.com/lgrodriguess/Faculdade)** → exercícios, trabalhos e provas da faculdade, incluindo o **PetMatch** (portal de adoção de pets com PHP e MySQL)
 
 ---
 
@@ -46,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,postgres,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,mysql,postgres,nodejs,git,github,vscode"/>
 
 </div>
 
