@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,mysql,postgres,nodejs,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,postgres,nodejs,git,github,vscode"/>
 
 </div>
 
